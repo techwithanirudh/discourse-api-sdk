@@ -1,5 +1,5 @@
-import { multipartFormRequestOptions, createForm } from 'discourse-sdk/internal/uploads';
-import { toFile } from 'discourse-sdk/core/uploads';
+import { multipartFormRequestOptions, createForm } from 'discourse-api-sdk/internal/uploads';
+import { toFile } from 'discourse-api-sdk/core/uploads';
 
 describe('form data validation', () => {
   test('valid values do not error', async () => {

@@ -7,8 +7,8 @@ const config: JestConfigWithTsJest = {
     '^.+\\.(t|j)sx?$': ['@swc/jest', { sourceMaps: 'inline' }],
   },
   moduleNameMapper: {
-    '^discourse-sdk$': '<rootDir>/src/index.ts',
-    '^discourse-sdk/(.*)$': '<rootDir>/src/$1',
+    '^discourse-api-sdk$': '<rootDir>/src/index.ts',
+    '^discourse-api-sdk/(.*)$': '<rootDir>/src/$1',
   },
   modulePathIgnorePatterns: [
     '<rootDir>/ecosystem-tests/',

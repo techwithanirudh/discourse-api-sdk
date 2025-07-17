@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import DiscourseSDK, { toFile } from 'discourse-sdk';
+import DiscourseSDK, { toFile } from 'discourse-api-sdk';
 
 const client = new DiscourseSDK({
   apiKey: 'My API Key',

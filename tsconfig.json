@@ -9,8 +9,8 @@
     "esModuleInterop": true,
     "baseUrl": "./",
     "paths": {
-      "discourse-sdk/*": ["src/*"],
-      "discourse-sdk": ["src/index.ts"]
+      "discourse-api-sdk/*": ["src/*"],
+      "discourse-api-sdk": ["src/index.ts"]
     },
     "noEmit": true,
 
