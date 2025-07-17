@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.2.0 (2025-07-17)
+
+Full Changelog: [v0.1.0...v0.2.0](https://github.com/techwithanirudh/discourse-api-sdk/compare/v0.1.0...v0.2.0)
+
+### Features
+
+* **api:** update via SDK Studio ([3ce13a7](https://github.com/techwithanirudh/discourse-api-sdk/commit/3ce13a7607b7d7473300d1eefb21c66457e1ea9d))
+
+
+### Chores
+
+* configure new SDK language ([62ab4ec](https://github.com/techwithanirudh/discourse-api-sdk/commit/62ab4ec88bbd3d5072b7908d65d8e53b65824f75))
+
 ## 0.1.0 (2025-07-17)
 
 Full Changelog: [v0.0.1-alpha.0...v0.1.0](https://github.com/techwithanirudh/discourse-api-sdk/compare/v0.0.1-alpha.0...v0.1.0)
