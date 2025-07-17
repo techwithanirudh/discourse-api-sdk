@@ -1,10 +1,10 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { APIPromise } from 'discourse-sdk/core/api-promise';
+import { APIPromise } from 'discourse-api-sdk/core/api-promise';
 
 import util from 'node:util';
-import DiscourseSDK from 'discourse-sdk';
-import { APIUserAbortError } from 'discourse-sdk';
+import DiscourseSDK from 'discourse-api-sdk';
+import { APIUserAbortError } from 'discourse-api-sdk';
 const defaultFetch = fetch;
 
 describe('instantiate client', () => {

@@ -25,7 +25,7 @@ export default tseslint.config(
         {
           patterns: [
             {
-              regex: '^discourse-sdk(/.*)?',
+              regex: '^discourse-api-sdk(/.*)?',
               message: 'Use a relative import, not a package import.',
             },
           ],

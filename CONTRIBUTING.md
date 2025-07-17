@@ -55,12 +55,12 @@ $ cd discourse-api-sdk
 # With yarn
 $ yarn link
 $ cd ../my-package
-$ yarn link discourse-sdk
+$ yarn link discourse-api-sdk
 
 # With pnpm
 $ pnpm link --global
 $ cd ../my-package
-$ pnpm link -—global discourse-sdk
+$ pnpm link -—global discourse-api-sdk
 ```
 
 ## Running tests
