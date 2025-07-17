@@ -26,7 +26,7 @@ export { endpoints } from './tools';
 export const server = new McpServer(
   {
     name: 'discourse_api_sdk_api',
-    version: '0.1.0',
+    version: '0.1.1',
   },
   { capabilities: { tools: {} } },
 );
