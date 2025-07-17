@@ -1,6 +1,6 @@
 {
   "name": "discourse-api-sdk",
-  "version": "0.0.1-alpha.0",
+  "version": "0.1.0",
   "description": "The official TypeScript library for the Discourse SDK API",
   "author": "Discourse SDK <hello@techwithanirudh.com>",
   "types": "dist/index.d.ts",
